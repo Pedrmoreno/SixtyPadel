@@ -97,6 +97,9 @@ html {
     grid-area: aside;
     justify-items: center;
     align-items: center;
+    img{
+      width: 500px;
+    }
   }
   .footer {
     grid-area: footer;

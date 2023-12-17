@@ -93,6 +93,9 @@ html {
   justify-items: center;
   align-items: center;
 }
+.contenedor .aside img {
+  width: 500px;
+}
 .contenedor .footer {
   grid-area: footer;
   text-align: center;
